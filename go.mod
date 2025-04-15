@@ -1,4 +1,4 @@
-module github.com/nitsugaro/glogger
+module github.com/nitsugaro/glog
 
 go 1.22.2
 
