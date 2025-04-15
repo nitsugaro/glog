@@ -8,7 +8,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
 	"github.com/natefinch/lumberjack"
-	glog "github.com/nitsugaro/glogger"
+	glog "github.com/nitsugaro/glog"
 	"github.com/sirupsen/logrus"
 )
 
